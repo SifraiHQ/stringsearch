@@ -18,4 +18,4 @@ crosscheck = []
 sacabase = { path = "../sacabase", version = "2.0.0" }
 
 [build-dependencies]
-cc = "1.0.47"
+cc = "1.0.28"
